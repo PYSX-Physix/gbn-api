@@ -2,12 +2,18 @@
     {
         "name": "Call of Duty: Black Ops 6 Releases Nuketown",
         "image": "https://gbn-api.pages.dev/images/COD-BO6-S0-ANNOUNCEMENT-002.jpg",
-        "date": "November 1, 2024"
+        "date": "November 1, 2024",
+        "details":{
+            "description": "This article talks about Call of Duty: Black Ops 6 devs Treyarch released Nuketown and how players love the remastered design."
+        }
     },
 
     {
         "name": "Fortnite Reveals Ice Spice and Splits the Community",
         "image": "https://gbn-api.pages.dev/images/fortnite-chapter-2-remix-ice-spice-1920x1080.jpg",
-        "date": "November 1, 2024"
+        "date": "November 1, 2024",
+        "details":{
+            "description": "This article talks about when Fortnite revealed celebrities such as Ice Spice, Snoop Dogg, and Eminem and how're they taking over point-of-interest's instead of the og chapter 2 versions."
+        }
     }
 ]
