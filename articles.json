@@ -1,5 +1,14 @@
 [
     {
+        "name": "Black Ops 6 Season 01 Official Announcement",
+        "image": "https://gbn-api.pages.dev/images/BO6-SEASON-01-ANNOUNCEMENT-001.jpg",
+        "date": "November 7, 2024",
+        "details":{
+            "description": "This article talks about the official announcement of Black Ops 6 Season 01.",
+            "content": "Sony has decided to shut down Firewalk Studios after a horrible game release by the name of Concord that costed $40 on the PS5 Store. The release was very bad and only stayed around for two weeks, the official IGN account gave the game a 7 out of 10."
+        }
+    },
+    {
         "name": "Sony Shuts Down Firewalk Studios After Terrible Release",
         "image": "https://gbn-api.pages.dev/images/concord-central-art.jpg",
         "date": "November 6, 2024",
