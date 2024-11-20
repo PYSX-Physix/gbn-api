@@ -24,6 +24,34 @@
             "text": "Global"
           },
           {
+            "type": "subheader",
+            "text": "Legacy XP Tokens"
+          },
+          {
+            "type": "paragraph",
+            "text": "Updated Black Ops 6 to support legacy XP token functionality"
+          },
+          {
+            "type": "subheader",
+            "text": "Gameplay"
+          },
+          {
+            "type": "paragraph",
+            "text": "Updated Black Ops 6 to support legacy XP token functionality"
+          },
+          {
+            "type":"subheader",
+            "text": "Cosmetics"
+          },
+          {
+            "type": "paragraph",
+            "text": "Addressed an issue where weapon sights would be misaligned with the Weaver Repairman Operator Skin equipped."
+          },
+          {
+            "type": "subheader",
+            "text": "Movement"
+          },
+          {
             "type": "paragraph",
             "text": "Reduced the minimum sprint time required to perform the following actions: dive-to-prone or slide."
           },
@@ -62,23 +90,21 @@
           {
             "type":"subheader",
             "text": "Directed Mode"
+          },
+          {
+            "type":"paragraph",
+            "text": "Exfil will now be triggered at the fifth hour of a Directed Mode Match due to a performance issue."
+          },
+          {
+            "type":"subheader",
+            "text":"GobbleGums"
+          },
+          {
+            "type":"paragraph",
+            "text":"Addressed an issue that allowed GobbleGums to persist indefinitely."
           }
         ]
       }
-    },
-    {
-        "name": "Eminem Takes Over The Island in Fortnite Remix",
-        "image": "https://gbn-api.pages.dev/images/fortnite-chapter-2-remix-eminem-1920x1080.jpg",
-        "date": "November 7, 2024",
-        "details":{
-            "description": "This article talks about how Eminem take over the grotto in Fortnite Remix and also talks about everything new with this new update.",
-            "content": [
-                {
-                    "type": "paragraph",
-                    "text": "Fortnite Remix's new update is here is everything new about this updated added."
-                }
-            ]
-        }
     }
 ]
   
