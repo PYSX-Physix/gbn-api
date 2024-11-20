@@ -80,6 +80,10 @@
             "text": "Zombies"
           },
           {
+              "type":"image",
+              "url": "https://gbn-api.pages.dev/images/ZOM_S1_Directed_Mode_LibertyFalls.jpg"
+          },
+          {
             "type":"subheader",
             "text": "Maps"
           },
