@@ -60,6 +60,10 @@
             "text": "Addressed an issue that could result in being unable to sprint when performing several actions within a short amount of time."
           },
           {
+            "type":"image",
+            "url":"https://gbn-api.pages.dev/images/BO6_S1_Heirloom_01.jpg"
+          },
+          {
             "type":"header",
             "text":"Multiplayer"
           },
