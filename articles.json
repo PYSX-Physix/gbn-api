@@ -33,7 +33,11 @@
           },
           {
             "type":"header",
-            "text":"Multiplayer / Movement"
+            "text":"Multiplayer"
+          },
+          {
+            "type":"subheader",
+            "text":"Movement"
           },
           {
             "type":"paragraph",
@@ -41,7 +45,11 @@
           },
           {
             "type":"header",
-            "text": "Zombies / Maps"
+            "text": "Zombies"
+          },
+          {
+            "type":"subheader",
+            "text": "Maps"
           },
           {
             "type":"paragraph",
@@ -52,7 +60,7 @@
             "text": "Liberty Falls: Addressed an issue where players would not be removed from a Chopper Gunner when starting the Main Quest Final Encounter."
           },
           {
-            "type":"paragraph",
+            "type":"subheader",
             "text": "Directed Mode"
           }
         ]
