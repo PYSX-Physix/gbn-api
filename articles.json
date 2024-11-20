@@ -1,19 +1,26 @@
 [
-    { "name": "Black Ops 6 Season 01 Patch Notes Nov 19", 
-    "image": "https://gbn-api.pages.dev/images/BO6-SEASON-01-PATCH-NOTES.jpg", 
-    "date": "November 19, 2024", 
-    "details": { 
-        "description": "First real article. This article is about everything new with the patch notes for Black Ops 6 on November 19, 2024.", 
-        "content": [ 
-            { 
-                "text": "On November 19th, 2024 the developers of Black Ops 6: Treyarch released a patch for BO6 regarding the UI and movement. The patch notes go as follows below for the article." 
-            }, 
-            { 
-                "url": "https://gbn-api.pages.dev/images/COD-BO6-S0-ANNOUNCEMENT-002.jpg" 
-            }, 
-            {
-                "text": "The patch includes several updates to improve the user interface and enhance movement mechanics." } 
-            ] 
-        }
+    {
+      "name": "Black Ops 6 Season 01 Patch Notes Nov 19",
+      "image": "https://gbn-api.pages.dev/images/BO6-SEASON-01-PATCH-NOTES.jpg",
+      "date": "November 19, 2024",
+      "details": {
+        "description": "First real article. This article is about everything new with the patch notes for Black Ops 6 on November 19, 2024.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "On November 19th, 2024 the developers of Black Ops 6: Treyarch released a patch for BO6 regarding the UI and movement. The patch notes go as follows below for the article."
+          },
+          {
+            "type": "image",
+            "url": "https://gbn-api.pages.dev/images/COD-BO6-S0-ANNOUNCEMENT-002.jpg",
+            "caption": "Announcement image for the patch notes."
+          },
+          {
+            "type": "paragraph",
+            "text": "The patch includes several updates to improve the user interface and enhance movement mechanics."
+          }
+        ]
+      }
     }
-]
+  ]
+  
