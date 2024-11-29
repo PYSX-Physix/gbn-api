@@ -1,5 +1,63 @@
 [
     {
+  "name": "Fortnite Responds to Cheating Problem",
+  "image": "https://gbn-api.pages.dev/images/fortnite-fncs-2025-champion-drake-community-cup-1920x1080.jpg",
+  "date": "2024-11-29",
+  "details": {
+    "description": "Fortnite responds to the player base about the cheating problem.",
+    "content": [
+      {
+        "type": "header",
+        "text": "Background Context"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cheating has been a persistent issue in online gaming, and Fortnite is no exception. To maintain the integrity of the game and provide a fair experience for all players, Epic Games has ramped up its efforts to combat cheating. This article explores the latest strategies and actions taken by Fortnite’s developers to tackle this problem."
+      },
+      {
+        "type": "header",
+        "text": "Fighting Back"
+      },
+      {
+        "type": "paragraph",
+        "text": "Epic Games has been seeing the amount of cheater rising in count and has decided to roll out new measures."
+      },
+      {
+        "type": "subheader",
+        "text": "Legal Actions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Epic Games has announced that it is intensifying its legal actions against both players who cheat and those who sell cheating tools. This move aims to cut off cheating at its source by targeting the creators and distributors of cheat software"
+      },
+      {
+        "type": "subheader",
+        "text": "Tournament Rules"
+      },
+      {
+        "type": "paragraph",
+        "text": "To further discourage cheating, Fortnite has restructured its tournament rules. Players found teaming up with cheaters in tournaments will face a minimum 28-day competitive ban, which will increase with each subsequent violation. This rule applies to all team-based modes, ensuring that even those who indirectly benefit from cheating are held accountable."
+      },
+      {
+        "type": "subheader",
+        "text": "Technical Measures"
+      },
+      {
+        "type": "paragraph",
+        "text": "Epic Games continues to invest in new detection technologies to identify and prevent cheating in real-time2. These technical measures are constantly updated to stay ahead of new cheating methods, ensuring that the game remains fair and competitive."
+      },
+      {
+        "type": "subheader",
+        "text": "Community Involvement "
+      },
+      {
+        "type": "paragraph",
+        "text": "The Fortnite community plays a crucial role in the fight against cheating. By reporting suspicious behavior and staying vigilant, players help Epic Games identify and address cheating more effectively. The new rules also encourage players to be mindful of their teammates, as associating with cheaters can lead to penalties."
+      }
+    ]
+  }
+},
+    {
       "name": "Black Ops 6 Season 01 Patch Notes Nov 19",
       "image": "https://gbn-api.pages.dev/images/BO6-SEASON-01-PATCH-NOTES.jpg",
       "date": "November 19, 2024",
