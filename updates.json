@@ -1,12 +1,4 @@
 {
-    "BetaLauncher":
-    {
-        "LatestVersion": "1.01",
-        "1.0": 
-            {
-            "changelist": "Initial Release"
-            }
-    },
     "ReleaseLauncher":
     {
         "LatestVersion": "1.0",
