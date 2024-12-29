@@ -1,7 +1,7 @@
 {
     "ReleaseLauncher":
     {
-        "LatestVersion": "1.0",
+        "LatestVersion": "1.0.0",
         "DownloadURL": "https://github.com/PYSX-Physix/Meta-Human-Creator-App/releases/latest/download/MetaHumanCreator.zip",
         "1.0":
         {
