@@ -1,4 +1,29 @@
-[
+[{
+      "name": "This is the article title",
+      "image": "https://gbn-api.pages.dev/images/S01_Events_HitList.jpg",
+      "date": "November 21, 2024",
+      "details": {
+        "description": "A description of the article.",
+        "content": [
+          {
+            "type": "header",
+            "text": "This is a header"
+          },
+          {
+            "type":"image",
+            "url":"https://gbn-api.pages.dev/images/BO6_S1_Heirloom_01.jpg"
+          },
+          {
+            "type":"paragraph",
+            "text":"This is a paragraph"
+          },
+          {
+            "type": "subheader",
+            "text": "This is a subheader"
+          }
+        ]
+      }
+    },
     {
       "name": "Black Ops 6 Season 01 Patch Notes Nov 19",
       "image": "https://gbn-api.pages.dev/images/BO6-SEASON-01-PATCH-NOTES.jpg",
@@ -13,7 +38,7 @@
           {
             "type": "image",
             "url": "https://gbn-api.pages.dev/images/BO6_S1_HideoutAction_02.jpg",
-            "caption": "Announcement image for the patch notes."
+            "caption": "Source: Call of Duty"
           },
           {
             "type": "paragraph",
@@ -61,7 +86,8 @@
           },
           {
             "type":"image",
-            "url":"https://gbn-api.pages.dev/images/BO6_S1_Heirloom_01.jpg"
+            "url":"https://gbn-api.pages.dev/images/BO6_S1_Heirloom_01.jpg",
+            "caption":"Source: Call of Duty"
           },
           {
             "type":"header",
