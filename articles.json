@@ -281,12 +281,8 @@
           },
           {
             "type":"image",
-<<<<<<< HEAD
             "url":"https://gbn-api.pages.dev/images/BO6_S1_Heirloom_01.jpg",
             "caption":"Source: Call of Duty"
-=======
-            "url":"https://gbn-api.pages.dev/images/BO6_S1_Heirloom_01.jpg"
->>>>>>> c9be14c4e80d358f1e5e93d0e8c09b45f0698948
           },
           {
             "type":"header",
